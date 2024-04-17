@@ -278,7 +278,9 @@ ul {
   border-radius: var(--borderRadius);
 }
 .menu-item .img {
+  width: 30rem;
   height: 15rem;
+
   border-top-right-radius: var(--borderRadius);
   border-top-left-radius: var(--borderRadius);
 }
